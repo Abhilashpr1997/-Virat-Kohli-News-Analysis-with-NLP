@@ -1,4 +1,5 @@
 🧠 Question Answering on Virat Kohli News Using Transformers
+
 📌 Project Overview
 This project builds a Question Answering (QA) system that can answer questions about Virat Kohli by analyzing recent news articles. It uses the NewsAPI to collect articles and Hugging Face Transformers for building the QA model. The text is preprocessed using spaCy, and sentiment trends are also visualized to provide more context.
 
